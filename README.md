@@ -24,6 +24,8 @@ Use npm to install all dependencies.
 npm install
 ```
 
+On Map.jsx, insert your Google Maps API key.
+
 Last, run the application locally.
 
 ```console
